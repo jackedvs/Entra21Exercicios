@@ -22,7 +22,7 @@ public class Aluno {
     String exibirSituacao() {
         double media = calcularMedia();
 
-        if (media > 6) {
+        if (media > 8) {
             return "Aluno aprovado";
         } else if (media == 5) {
             return "Aluno em recuperação";
