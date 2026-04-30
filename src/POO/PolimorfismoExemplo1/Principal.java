@@ -10,6 +10,7 @@ public class Principal {
        rex.emitirSom();
        sushi.emitirSom();
 
+
        Cachorro cachorro = new Cachorro();
        cachorro.perseguirCarteiro();
     }

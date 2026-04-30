@@ -9,12 +9,13 @@ public class Principal {
         System.out.println("Bem vindo");
         System.out.println("Digite o valor da compra");
         double valordaCompra = scanner.nextDouble();
+        scanner.nextLine();
 
         System.out.println("Escolha a forma de pagamento");
         System.out.println("[1] - Pix");
         System.out.println("[2] - Boleto");
         System.out.println("[3] - Cartão de Crédito");
-        scanner.next();
+
 
         Carrinho carrinho = new Carrinho(valordaCompra);
         int formaDePagamento = scanner.nextInt();
