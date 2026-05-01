@@ -4,6 +4,6 @@ public class Camelo extends Veiculo{
 
     @Override
     public void mover() {
-        System.out.println("Carregando alguém no lombo");
+        System.out.println("Camelo: Carregando alguém no lombo");
     }
 }
