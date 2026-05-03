@@ -1,4 +1,4 @@
-package POO.Heranca.Exemplo3;
+package Prog.OO.Exemplos.ExemploTres;
 
 public class Livro extends Produtos {
 

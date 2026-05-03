@@ -1,4 +1,4 @@
-package POO.Heranca.exeUm;
+package Prog.OO.Exemplos.ExemploTres;
 
 public class Produtos {
     private String nome;

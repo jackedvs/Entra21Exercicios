@@ -1,4 +1,4 @@
-package POO.Heranca;
+package Prog.OO.Exemplos.ExemploUm;
 
 public class Pessoa {
     private String nome;
