@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Computador;
 
 public class PrincipalComputador {
    public static void main(String[] args) {

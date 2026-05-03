@@ -1,4 +1,4 @@
-package Encapsulamento.exeUm;
+package Prog.OO.Encapsulamento.ExerciciosEncapsulamento.exeUm;
 
 public class TesteProduto {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Encapsulamento.exeDois;
+package Prog.OO.Encapsulamento.ExerciciosEncapsulamento.exeDois;
 
 public class Aluno {
     private String nome;

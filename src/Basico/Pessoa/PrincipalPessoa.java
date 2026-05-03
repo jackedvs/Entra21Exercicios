@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Pessoa;
 
 public class PrincipalPessoa {
     public static void main(String[] args) {

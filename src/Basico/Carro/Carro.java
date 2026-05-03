@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Carro;
 
 public class Carro {
     String marca, modelo;

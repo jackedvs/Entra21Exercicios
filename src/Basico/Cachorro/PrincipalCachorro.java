@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Cachorro;
 
 public class PrincipalCachorro {
    public static void main(String[] args) {

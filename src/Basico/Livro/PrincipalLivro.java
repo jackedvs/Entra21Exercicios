@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Livro;
 
 public class PrincipalLivro {
     static void main(String[] args) {

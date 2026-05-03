@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Retangulo;
 
 public class Retangulo {
     double altura, largura;

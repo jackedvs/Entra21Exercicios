@@ -1,4 +1,4 @@
-package POO.ExemploAbstracao.Exemplo.ExDois;
+package Prog.OO.ExemploAbstracao.Exemplo.ExDois;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Cachorro;
 
 public class Cachorro {
     String nome, raca;

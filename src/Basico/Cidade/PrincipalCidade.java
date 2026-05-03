@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Cidade;
 
 public class PrincipalCidade {
     public static void main(String[] args) {

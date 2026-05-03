@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Computador;
 
 public class Computador {
     String processador;

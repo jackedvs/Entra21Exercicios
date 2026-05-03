@@ -1,4 +1,4 @@
-package Encapsulamento.exeDois;
+package Prog.OO.Encapsulamento.ExerciciosEncapsulamento.exeDois;
 
 public class Main {
     public static void main(String[] args) {

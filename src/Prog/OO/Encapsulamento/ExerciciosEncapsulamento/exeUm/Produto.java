@@ -1,4 +1,4 @@
-package Encapsulamento.exeUm;
+package Prog.OO.Encapsulamento.ExerciciosEncapsulamento.exeUm;
 
 public class Produto {
     private String nome;

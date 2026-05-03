@@ -1,4 +1,4 @@
-package Encapsulamento.exeTres;
+package Prog.OO.Encapsulamento.ExerciciosEncapsulamento.exeTres;
 
 public class Main {
     public static void main(String[] args) {

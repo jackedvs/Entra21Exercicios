@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Cidade;
 
 public class Cidade {
     String nome, estado;

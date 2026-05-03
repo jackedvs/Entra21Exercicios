@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Filme;
 
 public class PrincipalFime {
     public static void main(String[] args) {

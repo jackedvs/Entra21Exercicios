@@ -1,4 +1,4 @@
-package Basico;
+package Basico.ContaBancaria;
 
 public class PrincipalContaBancaria {
     public static void main(String[] args) {

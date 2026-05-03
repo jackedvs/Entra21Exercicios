@@ -1,4 +1,4 @@
-package POO.Abstracao.ExerciciosAbstracao.exerDois;
+package Prog.OO.Abstracao.ExerciciosAbstracao.exerDois;
 
 public class Carro extends VeiculoAbstract{
     @Override

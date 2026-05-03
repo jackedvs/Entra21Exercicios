@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Filme;
 
 public class Filme {
     String nome, diretor;

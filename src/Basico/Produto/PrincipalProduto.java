@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Produto;
 
 public class PrincipalProduto {
    public static void main(String[] args) {

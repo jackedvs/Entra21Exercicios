@@ -1,4 +1,4 @@
-package Basico;
+package Basico.ContaBancaria;
 
 public class ContaBancaria {
     String titular, tipoConta;

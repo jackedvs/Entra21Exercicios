@@ -1,4 +1,4 @@
-package POO.Heranca.ExemplosHeranca.ExemploDois;
+package Prog.OO.Heranca.ExemplosHeranca.ExemploDois;
 
 public class Funcionario {
     private String nome;

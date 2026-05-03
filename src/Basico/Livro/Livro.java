@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Livro;
 
 public class Livro {
     String titulo, autor;

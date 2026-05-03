@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Retangulo;
 
 public class PrincipalRetangulo {
     public static void main() {

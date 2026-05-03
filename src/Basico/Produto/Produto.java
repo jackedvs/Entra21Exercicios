@@ -1,4 +1,4 @@
-package Basico;
+package Basico.Produto;
 
 public class Produto {
     String nome;
