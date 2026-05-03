@@ -1,4 +1,4 @@
-package POO.Heranca.ExercicioHeranca.ExeUm;
+package Prog.OO.Heranca.ExercicioHeranca.ExeUm;
 
 public class Principal {
     public static void main(String[] args) {

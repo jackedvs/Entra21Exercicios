@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerQuatro;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerQuatro;
 
 public class Forma {
     public void desenhar() {

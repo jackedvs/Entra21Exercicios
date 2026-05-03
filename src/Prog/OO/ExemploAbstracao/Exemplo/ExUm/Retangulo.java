@@ -1,4 +1,4 @@
-package POO.ExemploAbstracao.Exemplo.ExUm;
+package Prog.OO.ExemploAbstracao.Exemplo.ExUm;
 
 public class Retangulo extends FormaGeometricaAbstract {
     private double altura;

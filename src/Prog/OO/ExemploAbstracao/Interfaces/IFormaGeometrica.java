@@ -1,4 +1,4 @@
-package POO.ExemploAbstracao.Interfaces;
+package Prog.OO.ExemploAbstracao.Interfaces;
 
 public interface IFormaGeometrica {
     double calcularArea();

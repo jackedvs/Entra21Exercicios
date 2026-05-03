@@ -1,4 +1,4 @@
-package POO.Heranca.ExercicioHeranca.ExeDois;
+package Prog.OO.Heranca.ExercicioHeranca.ExeDois;
 
 public class Main {
 }

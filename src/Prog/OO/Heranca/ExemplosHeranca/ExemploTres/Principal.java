@@ -1,4 +1,4 @@
-package POO.Heranca.ExemplosHeranca.ExemploTres;
+package Prog.OO.Heranca.ExemplosHeranca.ExemploTres;
 
 public class Principal {
     public static void main(String[] args) {

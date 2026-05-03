@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerCinco;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerCinco;
 
 public class Principal {
     public static void main(String[] args) {

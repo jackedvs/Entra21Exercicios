@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerDois;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerDois;
 
 public class Bike extends Veiculo{
     @Override

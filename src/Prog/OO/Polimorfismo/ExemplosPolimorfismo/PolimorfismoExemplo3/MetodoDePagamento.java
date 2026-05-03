@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExemplosPolimorfismo.PolimorfismoExemplo3;
+package Prog.OO.Polimorfismo.ExemplosPolimorfismo.PolimorfismoExemplo3;
 
 public class MetodoDePagamento {
 

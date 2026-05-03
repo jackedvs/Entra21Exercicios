@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerTres;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerTres;
 
 public class Principal {
     public static void main(String[] args) {

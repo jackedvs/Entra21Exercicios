@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerSete;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerSete;
 
 public class Livro extends Produto{
     @Override

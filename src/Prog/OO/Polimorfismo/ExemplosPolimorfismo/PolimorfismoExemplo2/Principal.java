@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExemplosPolimorfismo.PolimorfismoExemplo2;
+package Prog.OO.Polimorfismo.ExemplosPolimorfismo.PolimorfismoExemplo2;
 
 public class Principal {
     public static void main(String[] args) {

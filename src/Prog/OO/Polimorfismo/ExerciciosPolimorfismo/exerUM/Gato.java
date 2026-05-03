@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerUM;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerUM;
 
 public class Gato extends Animal {
 

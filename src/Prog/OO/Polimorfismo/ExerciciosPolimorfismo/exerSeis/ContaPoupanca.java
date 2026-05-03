@@ -1,4 +1,4 @@
-package POO.Polimorfismo.ExerciciosPolimorfismo.exerSeis;
+package Prog.OO.Polimorfismo.ExerciciosPolimorfismo.exerSeis;
 
 public class ContaPoupanca extends Conta{
     @Override
