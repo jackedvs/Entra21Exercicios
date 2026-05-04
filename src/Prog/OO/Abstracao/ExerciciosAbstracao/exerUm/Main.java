@@ -1,4 +1,4 @@
-package POO.Abstracao.ExerciciosAbstracao.exerUm;
+package Prog.OO.Abstracao.ExerciciosAbstracao.exerUm;
 
 public class Main {
     public static void main(String[] args) {
